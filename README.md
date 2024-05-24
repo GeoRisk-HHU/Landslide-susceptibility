@@ -7,7 +7,7 @@ How to use QGIS_FORM：
 Your QGIS plugin directory is recommended to be located at:
     C:/Users/AppData/Roaming/QGIS/QGIS3/profiles/default/python/plugins
   * Copy the entire directory containing your new plugin to the QGIS plugin
-    directory
+    directory，Then restart QGIS
 
 For more information, see the PyQGIS Developer Cookbook at:
 http://www.qgis.org/pyqgis-cookbook/index.html

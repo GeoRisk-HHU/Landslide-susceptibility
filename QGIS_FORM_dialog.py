@@ -559,7 +559,7 @@ class QgisFORMDialog(QtWidgets.QDialog, FORM_CLASS):
         del phi_arr, phi_rad_arr, phi_stat2_arr, phi_stat2_rad_arr, c_arr, c_arr_stat2, suw_arr, suw_arr_stat2, D_arr, slope_arr, slope_rad_arr
 
         end_time = time.time()
-        elapsed_time = end_time - start_time
+        elapsed_time = int(end_time - start_time)
         print("Program run time：", elapsed_time, "seconds")
 
         def numpyToRaster(refRaster_path, ShuZu, Raster_save):

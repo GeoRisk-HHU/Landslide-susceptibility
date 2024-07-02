@@ -38,7 +38,7 @@
     <rect>
      <x>20</x>
      <y>30</y>
-     <width>421</width>
+     <width>431</width>
      <height>341</height>
     </rect>
    </property>
@@ -56,7 +56,7 @@
         <item>
          <widget class="QLabel" name="label">
           <property name="text">
-           <string>Effective Angle of Internal Friction; Mean (.tif)</string>
+           <string>Effective Angle of Internal Friction; Mean (.tif) (°)</string>
           </property>
           <property name="textFormat">
            <enum>Qt::AutoText</enum>
@@ -87,7 +87,7 @@
         <item>
          <widget class="QLabel" name="label_3">
           <property name="text">
-           <string>Effective Angle of Internal Friction; Standard Deviation (.tif)</string>
+           <string>Effective Angle of Internal Friction; Standard Deviation (.tif) (°)</string>
           </property>
          </widget>
         </item>
@@ -112,7 +112,7 @@
         <item>
          <widget class="QLabel" name="label_4">
           <property name="text">
-           <string>Soil Cohesion; Mean (.tif)</string>
+           <string>Soil Cohesion; Mean (.tif) (kPa)</string>
           </property>
          </widget>
         </item>
@@ -140,7 +140,7 @@
         <item>
          <widget class="QLabel" name="label_5">
           <property name="text">
-           <string>Soil Cohesion; Standard Deviation (.tif)</string>
+           <string>Soil Cohesion; Standard Deviation (.tif) (kPa)</string>
           </property>
          </widget>
         </item>
@@ -165,7 +165,7 @@
         <item>
          <widget class="QLabel" name="label_7">
           <property name="text">
-           <string>Moist Soil Unit Weight; Mean (.tif)</string>
+           <string>Moist Soil Unit Weight; Mean (.tif) (kN/m3)</string>
           </property>
          </widget>
         </item>
@@ -193,7 +193,7 @@
         <item>
          <widget class="QLabel" name="label_6">
           <property name="text">
-           <string>Moist Soil Unit Weight; Standard Deviation (.tif)</string>
+           <string>Moist Soil Unit Weight; Standard Deviation (.tif) (kN/m3)</string>
           </property>
          </widget>
         </item>
@@ -779,7 +779,7 @@
     <rect>
      <x>20</x>
      <y>410</y>
-     <width>421</width>
+     <width>431</width>
      <height>171</height>
     </rect>
    </property>
@@ -795,7 +795,7 @@
       <item>
        <widget class="QLabel" name="label_8">
         <property name="text">
-         <string>Soil Thickness (.tif)</string>
+         <string>Soil Thickness (.tif) (m)</string>
         </property>
        </widget>
       </item>
@@ -820,7 +820,7 @@
       <item>
        <widget class="QLabel" name="label_9">
         <property name="text">
-         <string>Slope (.tif)</string>
+         <string>Slope (.tif) (°)</string>
         </property>
        </widget>
       </item>

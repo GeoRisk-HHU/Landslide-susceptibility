@@ -1,4 +1,7 @@
 How to use QGIS_FORM：
+    The input files for the random variables (c, φ, γ) should follow the format below: 
+           1. The input for a single random variable should be a two-band raster file. 
+           2. The first band of each two-band raster file should represent the mean, and the second band should represent the standard deviation.
     The source of the earthquake is indicated by the grid file, and the source location is indicated by 9.
     Keep the input raster file size the same.
     For further technical questions, please contact bin_tong12@hhu.edu.cn

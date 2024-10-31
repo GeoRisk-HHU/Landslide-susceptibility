@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/QGIS_FORM" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
